@@ -1,0 +1,38 @@
+.tour-map-container {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+  padding-top: 80px;
+}
+
+.travel-plan {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.travel-plan h4 {
+  border-bottom: 2px solid #0d6efd;
+  padding-bottom: 5px;
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.card-header {
+  border-radius: 15px 15px 0 0 !important;
+}
+
+.alert {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.suggestion-heading strong,
+.suggestion-subheading strong,
+.suggestion-minor-heading strong,
+.suggestion-paragraph strong,
+.suggestion-list-item strong {
+  font-weight: 600;
+  color: inherit;
+}
